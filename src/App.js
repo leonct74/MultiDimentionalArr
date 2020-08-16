@@ -9,6 +9,7 @@ const sortList = [
   ["55555", "Desserts"]
 ];
 
+// TEST
 const updateCatArr = async (arr, dimension, catOld, catNew) => {
   //dimension is 0 for ID and 1 for CATEGORY
   //const dim = parseInt(dimension,10);
